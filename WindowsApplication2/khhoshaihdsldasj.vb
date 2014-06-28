@@ -1,4 +1,0 @@
-﻿
-Class khhoshaihdsldasj
-
-End Class

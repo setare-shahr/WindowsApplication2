@@ -1,4 +1,0 @@
-﻿
-Class khhoshaihds
-
-End Class
